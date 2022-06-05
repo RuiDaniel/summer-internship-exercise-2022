@@ -1,4 +1,4 @@
-package com.premiumminds.internship.screenlocking;
+package main.java.com.premiumminds.internship.screenlocking;
 
 import java.util.concurrent.ExecutionException;
 
