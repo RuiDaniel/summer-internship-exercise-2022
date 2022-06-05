@@ -22,7 +22,7 @@ import java.util.concurrent.Future;
 /**
  * Created by aamado on 05-05-2022.
  */
-class ScreenLockinPattern implements IScreenLockinPattern {
+public class ScreenLockinPattern implements IScreenLockinPattern {
 
  /**
   * Method to count patterns from firstPoint with the length
