@@ -1,4 +1,4 @@
-package com.premiumminds.internship.screenlocking;
+package test.java.com.premiumminds.internship.screenlocking;
 
 import static org.junit.Assert.assertEquals;
 
@@ -10,6 +10,7 @@ import java.util.concurrent.TimeoutException;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
+import main.java.com.premiumminds.internship.screenlocking.*;
 
 /**
  * Created by aamado on 05-05-2022.
